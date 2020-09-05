@@ -20,7 +20,7 @@ class Game {
 
         this.boards.forEach((board, index) => board.style.backgroundColor = colors[index]);
 
-        this.spanWallet.textContent = money;
+        this.spanWallet.textContent = `${money}$`;
 
         if (score) {
             score = `Wygrałeś ${wonMoney}$!`;
