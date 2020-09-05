@@ -5,3 +5,5 @@ My first contact with OOP. This is one of the exercises from course I was learni
 just training with e-menotor ;>
 
 Game in Polish language.
+
+### ONLY DESKTOP VERSION.
